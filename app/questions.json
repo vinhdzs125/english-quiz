@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "question": "Plastic bags ______ very slowly, which poses a threat to the ecosystem.",
+    "options": ["A. release", "B. reuse", "C. decompose", "D. recycle"],
+    "answer": "C. decompose"
+  },
+  {
+    "id": 2,
+    "question": "The ocean was _____as a result of a recent oil spill.",
+    "options": ["A. sorted", "B. decomposed", "C. recycled", "D. contaminated"],
+    "answer": "D. contaminated"
+  },
+  {
+    "id": 3,
+    "question": "Many celebrities adopt a green lifestyle, ______helps the environment a lot.",
+    "options": ["A. that", "B. what", "C. whose", "D. which"],
+    "answer": "D. which"
+  },
+  {
+    "id": 4,
+    "question": "The city plans to _____ its public transportation system next year.",
+    "options": ["A. rely", "B. afford", "C. seek", "D. expand"],
+    "answer": "D. expand"
+  },
+  {
+    "id": 5,
+    "question": "______ has rapidly transformed those small towns into bustling cities.",
+    "options": ["A. Convenience", "B. Unemployment", "C. Urbanisation", "D. Infrastructure"],
+    "answer": "C. Urbanisation"
+  },
+  {
+    "id": 6,
+    "question": "Do you want to follow_______ your father's footsteps?",
+    "options": ["A. on", "B. in", "C. at", "D. from"],
+    "answer": "B. in"
+  },
+  {
+    "id": 7,
+    "question": "Those who have exceptional performance throughout the year will be awarded a year-end ______.",
+    "options": ["A. overtime", "B. bonus", "C. duty", "D. qualification"],
+    "answer": "B. bonus"
+  },
+  {
+    "id": 8,
+    "question": "Housing is getting ______ in the central areas.",
+    "options": ["A. more and most expensive", "B. the more expensive", "C. more expensive and more expensive", "D. more and more expensive"],
+    "answer": "D. more and more expensive"
+  },
+  {
+    "id": 9,
+    "question": "Candidates must have necessary_________and at least two years of experience working as a sales representative.",
+    "options": ["A. vacancies", "B. shifts", "C. reviews", "D. qualifications"],
+    "answer": "D. qualifications"
+  },
+  {
+    "id": 10,
+    "question": "He found a well-paid job ______ he had no formal academic qualifications.",
+    "options": ["A. though", "B. because", "C. unless", "D. if"],
+    "answer": "A. though"
+  },
+  {
+    "id": 11,
+    "question": "There’s still a ______ for a customer service representative at the car repair shop.",
+    "options": ["A. responsibility", "B. review", "C. wage", "D. vacancy"],
+    "answer": "D. vacancy"
+  },
+  {
+    "id": 12,
+    "question": "My brother pursued higher education ______ he could get a better job.",
+    "options": ["A. not only", "B. so that", "C. either", "D. even though"],
+    "answer": "B. so that"
+  },
+  {
+    "id": 13,
+    "question": "Candidates must have necessary ______ and at least two years of experience working as a sales representative.",
+    "options": ["A. vacancies", "B. shifts", "C. reviews", "D. qualifications"],
+    "answer": "D. qualifications"
+  },
+  {
+    "id": 14,
+    "question": "It was difficult to deliver the letter_______ the sender had written the wrong address on the envelope.",
+    "options": ["A. because", "B. despite", "C. though", "D. because of"],
+    "answer": "A. because"
+  },
+  {
+    "id": 15,
+    "question": "The well is getting ______ polluted, forcing villagers to seek alternative clean water sources.",
+    "options": ["A. much and more", "B. much and much", "C. most and most", "D. more and more"],
+    "answer": "D. more and more"
+  },
+  {
+    "id": 16,
+    "question": "Many fresh graduates are struggling to ______ a nine-to-five job.",
+    "options": ["A. expand", "B. seek", "C. afford", "D. modernise"],
+    "answer": "B. seek"
+  },
+  {
+    "id": 17,
+    "question": "Youth crime in the inner city has increased ______ in recent months, requiring tightened security.",
+    "options": ["A. reliably", "B. affordably", "C. conveniently", "D. rapidly"],
+    "answer": "D. rapidly"
+  },
+  {
+    "id": 18,
+    "question": "We ______ an online survey to determine young people’s attitudes towards green living.",
+    "options": ["A. turned off", "B. carried out", "C. looked after", "D. applied for"],
+    "answer": "B. carried out"
+  },
+  {
+    "id": 19,
+    "question": "Many consumers choose to ______ clothing items that are made from animal parts.",
+    "options": ["A. emit", "B. breed", "C. boycott", "D. sort"],
+    "answer": "C. boycott"
+  },
+  {
+    "id": 20,
+    "question": "Businesses that adopt environmentally-friendly practices are given ______, such as paying less tax.",
+    "options": ["A. layers", "B. leftovers", "C. piles", "D. incentives"],
+    "answer": "D. incentives"
+  },
+  {
+    "id": 21,
+    "question": "Indicate the best arrangement of utterances: \n a. Mary: That sounds delicious! Could you share the recipe with me? \n b. John: I'm making pancakes. They're super easy to prepare, and they taste amazing \n c. Mary: What are you cooking, John? It smells amazing!",
+    "options": ["A. c-a-b", "B. c-b-a", "C. a-c-b", "D. b-c-a"],
+    "answer": "B. c-b-a"
+  },
+  {
+    "id": 22,
+    "question": "Indicate the best arrangement of utterances: \n a. Mom: Don’t spend too much time playing video games. You should focus on your studies. \n b. Mom: That’s good. Remember, education comes first. \n c. Son: I understand, Mom. I will only play after finishing my homework.",
+    "options": ["A. a-b-c", "B. b-c-a", "C. a-c-b", "D. b-a-c"],
+    "answer": "C. a-c-b"
+  },
+  {
+    "id": 23,
+    "question": "Indicate the best arrangement of sentences for the letter to Jane: \n a. Regular physical activity is essential for maintaining good health. \n b. Additionally, it improves mental well-being by reducing stress and anxiety. \n c. First, it not only helps in weight management but boosts our immune system as well. \n d. I was thinking about our conversation on staying fit and wanted to share some thoughts on exercise. \n e. Exercise can also be a fun social activity, whether it's a team sport or a group fitness class.",
+    "options": ["A. d-c-a-b-e", "B. d-c-a-e-b", "C. a-d-c-b-e", "D. d-a-c-b-e"],
+    "answer": "D. d-a-c-b-e"
+  },
+  {
+    "id": 24,
+    "question": "Indicate the best arrangement of sentences: \n a. These centers provide structured courses with experienced teachers, interactive activities, and access to diverse learning resources. \n b. As a result, students can improve their English skills more effectively compared to self-study. \n c. Studying at an English center offers numerous advantages for learners seeking to enhance their language proficiency. \n d. Furthermore, English centers create an immersive environment where students can practice speaking and listening in real-life situations. \n e. In conclusion, enrolling in an English center is a great way to develop language skills in a systematic and engaging manner.",
+    "options": ["A. c - a - d - b – e", "B. a - d - b - c – e", "C. c - d - a - b – e", "D. d - c - a - b – e"],
+    "answer": "A. c - a - d - b – e"
+  },
+  {
+    "id": 25,
+    "question": "Indicate the best arrangement of sentences: \n a. Therefore, we recommend that you put the suggested solutions into practice as soon as possible. \n b. Third, we recommend that we make use of plastic waste in arts and crafts projects... \n c. Second, the Youth Union should hold regular sessions to teach students how to recycle properly. \n d. This report suggests three main solutions to the problem of single-use products in our school. \n e. First, we suggest that the school should provide more recycling bins. \n f. Reusing and recycling single-use plastics will lead to a greener school environment...",
+    "options": ["A. d – e – c – f – b – a", "B. d – e – c – b – a – f", "C. d – e – b – c – f – a", "D. d – e – c – b – f – a"],
+    "answer": "D. d – e – c – b – f – a"
+  },
+  {
+    "id": 26,
+    "question": "Indicate the best arrangement of sentences: \n a. Second, it prevents environmental destruction by promoting sustainable practices... \n b. Making small changes today can lead to a more sustainable and prosperous tomorrow. \n c. Going green offers numerous advantages for both individuals and the planet. \n d. First, it helps reduce our carbon footprint... \n e. Additionally, going green raises awareness... \n f. Finally, embracing eco-friendly habits...",
+    "options": ["A. c-a-d-f-e-b", "B. b-d-a-e-f-c", "C. c-d-a-e-f-b", "D. b-a-d-f-e-c"],
+    "answer": "C. c-d-a-e-f-b"
+  },
+  {
+    "id": 27,
+    "question": "Indicate the best arrangement of sentences regarding shopping online.",
+    "options": ["A. e—a—c—b—d", "B. c—e—a—b—d", "C. c—a—b—d—e", "D. e—c— a—b—d"],
+    "answer": "A. e—a—c—b—d"
+  },
+  {
+    "id": 28,
+    "question": "Indicate the best arrangement of sentences for the letter to Laura: \n a. However, the fast pace can be overwhelming at times. \n b. Firstly, the diversity here is astounding... \n c. Looking forward to catching up soon! \n d. Overall, the experience has been enriching... \n e. Secondly, the opportunities for growth and exploration are endless. \n f. Living in a big city has been exciting.",
+    "options": ["A. f - b - a - e - d - c", "B. f - d - b - e - a - c", "C. f - b - e - a - d - c", "D. f - a - b - d - e - c"],
+    "answer": "C. f - b - e - a - d - c"
+  },
+  {
+    "id": 29,
+    "question": "Indicate the best arrangement of sentences: \n a. Children who learn about diverse traditions... \n b. Although we may speak different languages... \n c. If we want to create lasting peace... \n d. Many conflicts occur because communities don't understand each other's values... \n e. When people from different cultures communicate...",
+    "options": ["A. b-e-d-a-c", "B. e-b-a-d-c", "C. a-d-b-e-c", "D. d-a-b-e-c"],
+    "answer": "D. d-a-b-e-c"
+  },
+  {
+    "id": 30,
+    "question": "Indicate the best arrangement of sentences: \n a. Finally, it makes our planet a better place to live... \n b. Moreover, by saving the environment, we are protecting our ecosystem... \n c. Also, the effects of climate change can also be reduced greatly. \n d. Firstly, when we protect the environment... \n e. It is important to save the environment... \n f. In conclusion, it is vital to preserve and protect life on Earth.",
+    "options": ["A. e-d-b-c-a-f", "B. e-d-c-b-f-a", "C. e-d-a-f-b-c", "D. e-d-c-a-f-b"],
+    "answer": "A. e-d-b-c-a-f"
+  },
+  {
+    "id": 31,
+    "question": "Have a keen sense of taste? ... Competitive (31) ______ offered!",
+    "options": ["A. income", "B. wage", "C. pension", "D. welfare"],
+    "answer": "B. wage"
+  },
+  {
+    "id": 32,
+    "question": "(32)_______ the challenges, it’s a rewarding role for strong swimmers.",
+    "options": ["A. In addition to", "B. Regardless of", "C. In spite of", "D. With regard to"],
+    "answer": "B. Regardless of"
+  },
+  {
+    "id": 33,
+    "question": "Unlike (33) ______ jobs, this one is perfect for outgoing individuals.",
+    "options": ["A. other", "B. another", "C. others", "D. the others"],
+    "answer": "A. other"
+  },
+  {
+    "id": 34,
+    "question": "We offer flexible schedules, including the night (34) ______ for certain roles.",
+    "options": ["A. session", "B. number", "C. course", "D. shift"],
+    "answer": "D. shift"
+  },
+  {
+    "id": 35,
+    "question": "The (35) ______ of available positions is limited, so apply today!",
+    "options": ["A. amount", "B. number", "C. level", "D. category"],
+    "answer": "B. number"
+  },
+  {
+    "id": 36,
+    "question": "If you want to (36) ______ more information, please visit our website...",
+    "options": ["A. take up", "B. go off", "C. look up", "D. turn out"],
+    "answer": "C. look up"
+  },
+  {
+    "id": 37,
+    "question": "Climate change affects everyone... but different communities experience its impacts in unique ways. (37) ______.",
+    "options": ["A. Indigenous peoples rarely contribute meaningful insights to modern environmental practices.", "B. Indigenous peoples often possess valuable generational knowledge about sustainable living", "C. Indigenous communities typically reject scientific approaches to ecological conservation efforts.", "D. Indigenous knowledge systems focus exclusively on spiritual rather than practical applications."],
+    "answer": "B. Indigenous peoples often possess valuable generational knowledge about sustainable living"
+  },
+  {
+    "id": 38,
+    "question": "Many coastal communities (38) ______, and ancient cultural sites are being damaged by extreme weather events.",
+    "options": ["A. which are choosing to migrate despite stable coastlines", "B. that remain unaffected by environmental climate changes", "C. are being forced to relocate due to rising sea levels", "D. having rejected scientific warnings about coastal erosion"],
+    "answer": "C. are being forced to relocate due to rising sea levels"
+  },
+  {
+    "id": 39,
+    "question": "Climate solutions must be culturally appropriate; (39) ______. By combining traditional wisdom with modern science...",
+    "options": ["A. moreover, they must respect local traditions and values", "B. however, they should ignore regional customs and beliefs.", "C. therefore, they can dismiss community practices and norms.", "D. nevertheless, they might overlook cultural heritage and ethics."],
+    "answer": "A. moreover, they must respect local traditions and values"
+  },
+  {
+    "id": 40,
+    "question": "Communities around the world are already implementing these multicultural approaches, demonstrating (40) ______.",
+    "options": ["A. uniformity improved our approach to ecological challenges", "B. where homogeneity will enhances our defense against natural disasters", "C. scientists discourage from participating in conservation efforts", "D. that diversity strengthens our response to environmental threats"],
+    "answer": "D. that diversity strengthens our response to environmental threats"
+  },
+  {
+    "id": 41,
+    "question": "Scientists study climate patterns and develop new technologies, (41) ______.",
+    "options": ["A. ignoring the urgent warnings about climate change", "B. having rejected collaborative approaches to research", "C. prioritizing profit over environmental preservation", "D. hoping to find sustainable solutions for our planet"],
+    "answer": "D. hoping to find sustainable solutions for our planet"
+  },
+  {
+    "id": 42,
+    "question": "The phrase “back to the drawing board” in paragraph 1 could be best replaced by ______.",
+    "options": ["A. start over", "B. look up", "C. give in", "D. take off"],
+    "answer": "A. start over"
+  },
+  {
+    "id": 43,
+    "question": "Where in paragraph 2 does the following sentence best fit? \"Against all odds, she persevered through numerous rejections and continued writing her Harry Potter manuscript in local cafes.\"",
+    "options": ["A. [I]", "B. [II]", "C. [III]", "D. [IV]"],
+    "answer": "B. [II]"
+  },
+  {
+    "id": 44,
+    "question": "Based on the passage, which of the following is NOT MENTIONED?",
+    "options": ["A. Some ingredients in Colonel Sanders' famous chicken recipe.", "B. How J.K. Rowling overcame her depression during difficult times.", "C. The number of rejections Colonel Sanders faced before succeeding.", "D. The impact of J.K. Rowling's success on the publishing industry."],
+    "answer": "D. The impact of J.K. Rowling's success on the publishing industry."
+  },
+  {
+    "id": 45,
+    "question": "Which of the following best summarises paragraph 3?",
+    "options": ["A. Demonstrates that success can come at any age through persistence, as shown by his journey...", "B. Illustrates that entrepreneurial success at 65 came through unwavering persistence despite 1,000 rejections...", "C. Highlights how protecting a secret recipe and implementing effective franchising strategies...", "D. Shows that innovative marketing strategies and social media presence..."],
+    "answer": "B. Illustrates that entrepreneurial success at 65 came through unwavering persistence despite 1,000 rejections..."
+  },
+  {
+    "id": 46,
+    "question": "The word “contemplate” in paragraph 3 is OPPOSITE in meaning to ______.",
+    "options": ["A. consider", "B. ponder", "C. disregard", "D. meditate"],
+    "answer": "C. disregard"
+  },
+  {
+    "id": 47,
+    "question": "The word “he” in paragraph 3 refers to ______.",
+    "options": ["A. Colonel Harland Sanders", "B. J.K. Rowling", "C. A restaurant owner", "D. An entrepreneur"],
+    "answer": "A. Colonel Harland Sanders"
+  },
+  {
+    "id": 48,
+    "question": "Which of the following best paraphrases the underlined sentence in paragraph 4? (\"Every setback carries the seed of an equal or greater opportunity...\")",
+    "options": ["A. Challenges teach valuable lessons about resilience...", "B. Opportunities emerge through consistent effort...", "C. Difficult situations reveal our true character...", "D. Failures often contain hidden possibilities for success, and what appears to be a conclusion may actually serve as a promising new beginning."],
+    "answer": "D. Failures often contain hidden possibilities for success, and what appears to be a conclusion may actually serve as a promising new beginning."
+  },
+  {
+    "id": 49,
+    "question": "Which of the following is TRUE according to the passage?",
+    "options": ["A. Colonel Sanders started Kentucky Fried Chicken in his thirties...", "B. Colonel Sanders faced over 1,000 rejections before finally establishing Kentucky Fried Chicken...", "C. J.K. Rowling wrote her entire Harry Potter manuscript while working as a teacher...", "D. J.K. Rowling experienced immediate success with her first Harry Potter book..."],
+    "answer": "B. Colonel Sanders faced over 1,000 rejections before finally establishing Kentucky Fried Chicken..."
+  },
+  {
+    "id": 50,
+    "question": "Which of the following can be inferred from the passage?",
+    "options": ["A. Financial stability is generally a prerequisite for achieving significant entrepreneurial or creative success.", "B. Persistence through multiple rejections is a common element in the success stories presented in the passage.", "C. Age can be an advantage when starting new ventures, as demonstrated by both examples in the passage.", "D. Creative individuals typically experience more setbacks than those who pursue conventional business careers."],
+    "answer": "B. Persistence through multiple rejections is a common element in the success stories presented in the passage."
+  }
+]
